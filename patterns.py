@@ -12,3 +12,25 @@ output:
 123
 1234
 12345
+
+2.Triangle pattern:
+    
+for i in range(5):
+    for j in range(i):
+        print("*",end="")
+    print()
+for i in range(5):
+    for j in range(j):
+        print("*",end="")
+    print()
+    
+output:
+
+*
+**
+***
+****
+***
+**
+*
+  

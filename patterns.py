@@ -5,3 +5,10 @@ def pattern(n):
         print()
 p=int(input("enter the num"))
 pattern(p)
+
+output:
+1
+12
+123
+1234
+12345

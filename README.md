@@ -8,14 +8,14 @@
 
 `django-dev` 
 
-## 🚀 About Me!
+##  About Me!
 
 
-- 👩‍💻 I'm currently working on django projects
+-  I'm currently working on django projects
 
-- ⚡️ I'm currently learning Reactjs
+-  I'm currently learning Reactjs
 
-- 💻 have a passion for learning new things
+-  have a passion for learning new things
 
 #### Connect with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://manoj-gaonkar.github.io)

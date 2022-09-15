@@ -13,7 +13,7 @@
 
 -  I'm currently working on django projects
 
--  I'm currently learning Reactjs
+-  I'm currently learning Vuejs
 
 -  have a passion for learning new things
 

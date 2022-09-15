@@ -8,7 +8,7 @@
 
 `django-dev` 
 
-![](https://komarev.com/ghpvc/?username=manoj-gaonkar)
+
 
 ##  About Me!
 

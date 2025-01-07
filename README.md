@@ -6,7 +6,6 @@
 # Hi, I'm <span style="color:red;">Manoj!</span> 👋
 
 
-`django-dev` 
 
 
 
